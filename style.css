@@ -1,0 +1,56 @@
+body{
+    background-color: #e9ecef;
+ 
+}
+.container{
+    width: 100%;
+    margin-top: 30px;
+   background-color: white;
+   padding-bottom: 150px;
+}
+.h1{
+    font-size: 35px;
+    margin-top: 10px;
+}
+.h2{
+    font-size: 25px;
+    margin-top: 10px;
+}
+.logo{
+    width: 60px;
+    margin-top: -23px;
+}
+p{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 0.9rem;
+}
+.button{
+    text-align: center;
+    margin: auto;
+    display: block;
+    width: 100%;
+}
+.bt2{
+    margin-top: 10px;
+}
+.img2{
+    width: 300px;
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.mainimg{
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+.cont2{
+    margin-top: 20px;
+}
+.icons{
+    width:60px;
+    display: block;
+    margin: auto;
+}
